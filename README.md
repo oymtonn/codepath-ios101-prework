@@ -4,7 +4,7 @@ Submitted by: *Myo Aung*
 
 **Echo** is an app that changes the background when clicking on a button, and can print what is inputed into a textfield.
 
-Time spent: **2.5** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -33,8 +33,10 @@ Youtube
  - Comment sections
 
 Tiktok
- - Infinite feed
+ - Comments
  - Engaging algorithm
+
+I'd like to build an app that will utilize features like comments or messaging with friends/other people. The key to a social app is obviously implementing a good way to interact with others, so I want to build one where people can talk with each other about a specific topic. Letterboxd does a good job at this where film lovers can get together and make conversation about their favorite and least favorite movies. I hope to either improve this or make something similar focused on another topic. I would want to add features like uploading videos and anything to improve communication for users.
 
 ## Notes
 
