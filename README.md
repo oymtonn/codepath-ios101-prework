@@ -4,7 +4,7 @@ Submitted by: *Myo Aung*
 
 **Echo** is an app that changes the background when clicking on a button, and can print what is inputed into a textfield.
 
-Time spent: **3** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
