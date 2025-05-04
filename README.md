@@ -1,10 +1,10 @@
 # Prework - *Echo*
 
-Submitted by: **Myo Aung*
+Submitted by: *Myo Aung*
 
 **Echo** is an app that changes the background when clicking on a button, and can print what is inputed into a textfield.
 
-Time spent: **2** hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## Required Features
 
@@ -27,9 +27,11 @@ The following **required** functionality is completed:
 Instagram
  - Messaging with friends
  - Temporary stories
+
 Youtube
  - The thumbnails
  - Comment sections
+
 Tiktok
  - Infinite feed
  - Engaging algorithm
